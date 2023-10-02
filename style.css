@@ -110,13 +110,13 @@ a {
   font-size: 30px;
   text-shadow: 4px 3px 0 #2b2b2b;
 }
-.sub-title {
+.sub-title {  
   text-align: center;
   text-shadow: 2px 2px #0000003b;
   font-weight: 700;
   font-size: 17px;
   background-color: #fff;
-  color: #365a6c;
+  color: #000;
   padding: 10px;
   border-radius: 10px;
   font-family: "Cairo", sans-serif;
